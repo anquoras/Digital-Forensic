@@ -1,0 +1,43 @@
+Created By AccessData® FTK® Imager 3.4.2.6 
+
+Case Information: 
+Acquired using: ADI3.4.2.6
+Case Number: CPD-2024-04-023
+Evidence Number: SM/2024/04/023/001
+Unique Description: Novelty USB Stick, Red 8GB noted size
+Examiner: Detective Fossil
+Notes: Operation Spoiler - Found on bookcase inside a brick model believed to be of a bus. USB in tact. OSINT on USB suggests size of 8GB 
+
+--------------------------------------------------------------
+
+Information for SM_2024_04_023_001.dd:
+
+Physical Evidentiary Item (Source) Information:
+[Device Info]
+ Source Type: Physical
+[Drive Geometry]
+ Cylinders: 494
+ Tracks per Cylinder: 255
+ Sectors per Track: 63
+ Bytes per Sector: 512
+ Sector Count: 7,946,240
+[Physical Drive Information]
+ Drive Model: Generic Flash Disk USB Device
+ Drive Serial Number: 4
+ Drive Interface Type: USB
+ Removable drive: True
+ Source data size: 3880 MB
+ Sector count:    7946240
+[Computed Hashes]
+ SHA256 checksum:   B4F6D02CC850DAC6E6F981B929512309180D1631BE1C1439E6EA9DDEB64B294C
+
+Image Information:
+ Acquisition started:   Tue Apr 23 15:39:31 2024
+ Acquisition finished:  Tue Apr 23 15:44:51 2024
+ Segment list:
+  SM_2024_04_023_001.dd
+
+Image Verification Results:
+ Verification started:  Tue Apr 23 15:44:52 2024
+ Verification finished: Tue Apr 23 15:46:49 2024
+ SHA256 checksum:   B4F6D02CC850DAC6E6F981B929512309180D1631BE1C1439E6EA9DDEB64B294C: verified
