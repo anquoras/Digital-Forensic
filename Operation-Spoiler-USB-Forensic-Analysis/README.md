@@ -9,7 +9,7 @@ Markdown version of my COMP6254 Digital Forensics coursework, the expert witness
 ## Folder Structure
 
 ```
-Expert_Witness_Statement_qal1g25/
+Operation-Spoiler-USB-Forensic-Analysis/
 ├── README.md              This file (overview and lessons learned)
 ├── report.md              Full expert witness statement in Markdown
 └── Data_Image/            Figures used in the report
